@@ -1,0 +1,5 @@
+1. Linear regression over titanic datasets.
+2. Jupiter Lab preferable.
+3. Put the code and datasets in a same folder.
+
+	Hope it will help you guys!! :)
